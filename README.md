@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KRATOS — preview page
 
 Plain HTML / CSS / JS. No build step, no dependencies.
@@ -73,3 +74,7 @@ the visitor drags the cartridge — which is exactly when it is needed.
 
 The lion mark sits behind the whole interface at 5% opacity, set in `styles.css`
 on `body::after`. Raise or lower the `opacity` value there.
+=======
+# Kratos-Preview-
+KRATOS 2K26 — ENTER THE ARENA 🦁⚡ A high-energy technical fest where ideas turn into action. Explore exciting Technical Events, Spark Events, Playground Events, Online Events, Workshops, and Hackathons—compete, create, collaborate, and prove what you can do.
+>>>>>>> 85156629760e610431ca880096025d6a94b765bd
